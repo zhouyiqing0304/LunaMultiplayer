@@ -37,5 +37,7 @@ server.emlynlj.co.uk:2185
 zandstra.duckdns.org:8800
 #Delta Servers
 ksp.delabonifier.com:33790
+#Jason的公用服务器
+zzw511.cdp.cc:8800
 ksp.delabonifier.com:33792
 ksp.delabonifier.com:33793
